@@ -1,0 +1,16 @@
+nav {
+  background-color: darkslateblue;
+  color: #fff;
+}
+
+nav a {
+  color: #fff !important;
+}
+
+main img {
+  width: 400px;
+}
+
+.btn-color {
+  background-color: #96CEB4;
+}
